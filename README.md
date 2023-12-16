@@ -1,5 +1,14 @@
-# Dog Breed Identifier
-By Andrew Smith, Randall Krouth, & Victor Brown
+<h1 align='center'>
+    Dog Breed Identifier
+</h1>
+
+<p align='center'>
+    By Andrew Smith, Randall Krouth, & Victor Brown 
+</p>
+        
+<p align='center'>
+   <img src="https://github.com/andrewcsmith09/DogBreedIdentifier/assets/153587771/c00c76ae-c1c4-4a48-84a9-52157ab455f9" />
+</p>
 
 ## Overview
 
