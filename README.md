@@ -36,6 +36,8 @@ Source Code: https://techvidvan.com/tutorials/dog-breed-classification/
 ## Running the Identifier script and Flask server
 
 ### - Download both python scripts and Dog_Breed_Classification.zip from the DogBreedIdentifier folder
+#### - If data limit has been reached, you can download zip files from Google Drive
+- Drive Link for Dog_Breed_Classification.zip: https://drive.google.com/file/d/18ZBEhD3veHVVTqRCgAjQTniG1BSOEgiS/view?usp=drive_link
   
 ### Running the Flask server
 #### 1. Unzip the Dog_Breed_Classification.zip folder
@@ -72,11 +74,14 @@ Ensure all necessary items are in the folder. You should have:
 
 ## Running the GUI in Unity
 
+#### - If data limit has been reached, you can download zip files from Google Drive
+- Drive Link for GUI_Unity_Project.zip: https://drive.google.com/file/d/14uqtpPJPNFuGl1SGw7QONYlXnjPBgf97/view?usp=drive_link
+  
 ### Download and unzip the GUI_Unity_Project.zip file from the UnityGUI folder
 
 #### Make sure you have the Unity Editor installed. If not, you can download the Unity Hub from https://unity.com/download
 
-#### 1. Launch the Unity Hub and add the GUI_Unity_Project folder as a new project
+#### 1. If on Windows, launch Unity Hub and add the Final_Project_Unity/Final_Project_Unity folder as a new project
 
 #### 2. Open the project and allow domain and scripts to be compiled
 
