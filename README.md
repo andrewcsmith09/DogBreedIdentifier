@@ -12,7 +12,7 @@
 
 ## Overview
 
-This project is a dog breed classification system that utilizes a pre-trained ResNet50V2 model. It consists of a Flask backend for server-side processing and a Unity frontend for user interaction. The system allows users to upload dog images, predict the breed, and display the results in the Unity GUI. It can be built for any device through the Unity Editor. This project was created for Dr. Yu's Artificial Intelligence class at SUNY Brockport.  
+This project is a dog breed classification system that uses machine learning to predict the breed of a dog based on an uploaded image. It combines a Flask backend, a Unity frontend, and a custom Python script that leverages a pre-trained ResNet50V2 model for breed classification. The system allows users to upload dog images, predict the breed, and display the results in the Unity GUI. It can be built for any device through the Unity Editor. This project was created for Dr. Yu's Artificial Intelligence class at SUNY Brockport.  
 
 #### Links:  
 Training Dataset: https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset  
@@ -20,7 +20,7 @@ Source Code: https://techvidvan.com/tutorials/dog-breed-classification/
 
 ## Features
 
-- Dog breed classification using a pre-trained ResNet50V2 model.
+- Dog breed classification using a Python script that leverages a pre-trained ResNet50V2 model.
 - Flask backend for serving predictions.
 - Unity frontend for user interaction and image uploading.
 
